@@ -1,0 +1,9 @@
+.news-letter input{
+    border: 0px;
+    border-bottom: 1px solid orangered;
+    width: 250px;
+}.news-letter input:focus{
+    outline: 0px;
+    border: 0px;
+    border-bottom: 1px solid orangered;
+}

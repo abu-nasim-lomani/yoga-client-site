@@ -1,0 +1,13 @@
+.about-text p{
+    line-height:50px;
+    color: darkcyan;
+     padding: 0px 40px;
+}
+
+
+@media screen and (max-width: 768px) {
+    .about-text p{
+        line-height:25px;
+         padding: 10px;
+    }
+}
