@@ -19,8 +19,12 @@
 ### 8.Bootstrap
 
 # Preview
+## Home Page
 ![screencapture-youth-yoga-training-center-web-app-2021-05-03-20_59_45](https://user-images.githubusercontent.com/68380516/116893514-e12c3a80-ac52-11eb-8efb-cabb5dc81aa0.png)
+## Add a New Course Admin only
 ![screencapture-youth-yoga-training-center-web-app-dashboard-book-list-607d052a4172352238137822-2021-05-03-21_00_45](https://user-images.githubusercontent.com/68380516/116893563-ed17fc80-ac52-11eb-994a-b513ce2232eb.png)
+
+## Manage here all Course
 ![screencapture-youth-yoga-training-center-web-app-dashboard-course-2021-05-03-21_01_34](https://user-images.githubusercontent.com/68380516/116893570-ef7a5680-ac52-11eb-9fb7-3454031070ac.png)
 
 
